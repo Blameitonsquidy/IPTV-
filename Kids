@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NickToons.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Nicktoons_%28UK%29.svg/revision/latest?cb=20210609135942" group-title="UK",NickToons.UK (540p)
+#EXTINF:-1 tvg-id="NickToons uk" tvg-country="UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Nicktoons_%28UK%29.svg/revision/latest?cb=20210609135942" group-title="UK",NickToons.UK (540p)
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571885h
-#EXTINF:-1 tvg-id="Nickelodeon.uk tvg-country"UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/0/06/Nickelodeon_2017.svg/revision/latest?cb=20210314141530" group-title="UK",Nickelodeon.UK (1080p)
+#EXTINF:-1 tvg-id="Nickelodeon uk tvg-country"UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/0/06/Nickelodeon_2017.svg/revision/latest?cb=20210314141530" group-title="UK",Nickelodeon.UK (1080p)
 http://pbmedia.xyz:8080/Emma/yZQYc8Rt/441407
