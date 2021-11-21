@@ -13,5 +13,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 #EXTINF:-1 tvg-id="Bang Bang" tvg-country="Albanian" tvg-language"Albanian" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/2/28/Bang_Bang_logo.png/revision/latest?cb=20160717184139" group-title="Albania",Bang Bang (720p)
 http://us.bestvideostreaming.is/8737/playlist.m3u8
-#EXTINF:-1 tvg-id="Gulli" tvg-country="France" tvg-language="French" tvg-logo= https://static.wikia.nocookie.net/logopedia/images/b/be/696px-Gulli_logo_2017.png/revision/latest?cb=20180705143108" group-title="France",Gulli France (1080p)
+#EXTINF:-1 tvg-id="Gulli" tvg-country="France" tvg-language="French" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/696px-Gulli_logo_2017.png/revision/latest?cb=20180705143108" group-title="France",Gulli France (1080p)
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="NickToons CEE" tvg-country="CEE" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Nicktoons_%28UK%29.svg/revision/latest?cb=20210609135942" group-title="International",NickToons CEE (Englush Audio) (720p)
+http://wagmaott.com:8080/mag00:1A:70:49:OF:A6/ubkyntGhbV/116698
