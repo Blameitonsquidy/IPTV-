@@ -15,7 +15,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://us.bestvideostreaming.is/8737/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli" tvg-country="France" tvg-language="French" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/696px-Gulli_logo_2017.png/revision/latest?cb=20180705143108" group-title="France",Gulli France (1080p)
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 tvg-id="NickToons CEE" tvg-country="CEE" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Nicktoons_%28UK%29.svg/revision/latest?cb=20210609135942" group-title="International",NickToons CEE (English Audio) (720p)
-http://wagmaott.com:8080/mag00:1A:70:49:OF:A6/ubkyntGhbV/116698?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Disney Junior CEE" tvg-country='CEE" tvg-language="Portguse" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" group-title="International",Disney Junior CEE (English & Portuguese) (540p)
 http://185.236.229.21.9981/play/a03q
