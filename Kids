@@ -32,5 +32,6 @@ http://new-pro.tv:8080/waelwael/2r1sBY8wJK/17520?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="4FUNTV" tvg-country="Poland" tvg-language="Polish" tvg-logo="" group-title="Poland",4FUN TV (576p)
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="ABC Kids" tvg-country="Australia" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Australia",ABC Kids (720p)
-#EXTINF:-1 tvg-id="YTV" tvg-country="Canada" tvg
 https://c.mjh.nz/101002210222
+#EXTINF:-1 tvg-id="YTV" tvg-country="Canada" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/YTV_Large_LOGO_%282016%29.png/revision/latest?cb=20190428181851" group-title="Canada",YTV SD (540p)
+http://lotin4k.com:80/80/MahmudAslami/IQ3KTIBIQA/6315?checkedby:iptvcat.com
