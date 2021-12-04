@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NickToons uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="UK",NickToons UK (540p)
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571885
-#EXTINF:-1 tvg-id="Nickelodeon uk" tvg-country"UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="UK",Nickelodeon UK (1080p)
+#EXTINF:-1 tvg-id="Nickelodeon uk" tvg-country"UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="UK",Nickelodeon UK (1080p)
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441407
 #EXTINF:-1 tvg-id="CBeebies Poland" tvg-country"Poland" tvg-language="Polish" tvg-logo="https://static.wikia.nocookie.net/cbeebies/images/3/33/CBeebies_logo.png/revision/latest?cb=20190201011633" group-title="Poland",CBeebies Poland (540p)
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4558?checkedby:iptvcat.com
@@ -35,3 +35,4 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 https://c.mjh.nz/101002210222
 #EXTINF:-1 tvg-id="YTV" tvg-country="Canada" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/YTV_Large_LOGO_%282016%29.png/revision/latest?cb=20190428181851" group-title="Canada",YTV SD (540p)
 http://lotin4k.com:80/80/MahmudAslami/IQ3KTIBIQA/6315?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Nickelodeon CEE" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="International",Nickelodeon CEE (Turkish Audio) (1080p)
