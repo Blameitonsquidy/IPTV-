@@ -46,4 +46,4 @@ http://103.194.169.171:8282/CZ_NICKTOONS/mono.m3u8?token=93a611c10082e5eec57f8be
 #EXTINF:-1 tvg-id="Nickelodeon Italy" tvg-country="Italy" tvg-language="Italian" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="Italy",Nickelodeon Italy (540p)
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/41101
 #EXTINF:-1 tvg-id="Super!" tvg-country="Italy" tvg-language="Italian" group-title"Italy",Super! (720p)
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/41090
