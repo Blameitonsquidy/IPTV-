@@ -1,3 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Orignal Track 1" group-title="Orignal",Original Track 1
+#EXTINF:-1 tvg-id="Orignal Track 1" group-title="Original",Original Track 1
 http://letscommunicate.co.uk/skyepgmusic/origonal/01%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 2" group-title="Original",Original Track 2
+http://letscommunicate.co.uk/skyepgmusic/origonal/02%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 3" group-title="Original",Original Track 3
+http://letscommunicate.co.uk/skyepgmusic/origonal/03%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 4" group-title="Original",Original Track 4
+http://letscommunicate.co.uk/skyepgmusic/origonal/04%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 5" group-title="Original",Original Track 5
+http://letscommunicate.co.uk/skyepgmusic/origonal/05%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 6" group-title="Original",Original Track 6
+http://letscommunicate.co.uk/skyepgmusic/origonal/06%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 7" group-title="Original,Original Track 7
+http://letscommunicate.co.uk/skyepgmusic/origonal/07%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 8" group-title="Original",Original Track 8
+http://letscommunicate.co.uk/skyepgmusic/origonal/08%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 9" group-title="Original",Original Track 9
+http://letscommunicate.co.uk/skyepgmusic/origonal/09%20-%20Sky%20Digital%20EPG.mp3
+#EXTINF:-1 tvg-id="Orignal Track 10" group-title="Original",Original Track 10
+http://letscommunicate.co.uk/skyepgmusic/origonal/10%20-%20Sky%20Digital%20EPG.mp3
