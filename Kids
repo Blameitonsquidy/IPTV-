@@ -53,3 +53,7 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22309
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/35532
 #EXTINF:-1 tvg-id="Nickelodeon France" tvg-country"France" tvg-language="French" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="France",Nickelodeon France +6 (2160p)
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/190745
+#EXTINF:-1 tvg-id="POP" tvg-country"UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="UK",POP UK (540p)
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571880
+#EXTINF:-1 tvg-id="POP Max" tvg-country"UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Pop-max-logo.png" group-title="UK",POP Max (540p)
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571881
