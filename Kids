@@ -57,3 +57,9 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/190745
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571880
 #EXTINF:-1 tvg-id="POP Max" tvg-country"UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Pop-max-logo.png" group-title="UK",POP Max (540p)
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571881
+#EXTINF:-1 tvg-id="Nickelodeon CEE" tvg-country"CEE" tvg-language="Norwegian" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="International",Nickelodeon CEE (Norwegian Audio) (540p)
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22477
+#EXTINF:-1 tvg-id="Nickelodeon CEE" tvg-country"CEE" tvg-language="Danish" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="International",Nickelodeon CEE (Danish Audio) (540p)
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22310
+#EXTINF:-1 tvg-id="Nickelodeon CEE" tvg-country"CEE" tvg-language="Swedish" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="International",Nickelodeon CEE (Swedish Audio) (540p)
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22694
