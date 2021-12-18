@@ -64,4 +64,5 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22477
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22310
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-country"Portugal" tvg-language="Portuguese" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="Portugal",Nickelodeon Portugal (1080p)
 http://cdn99.one:80/984854/6b4zmQ/90241.ts
-
+#EXTINF:-1 tvg-id="Nickelodeon US" tvg-country"US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="US",Nickelodeon US (1080p)
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7PJdwdR_-fvLqwLMN2umWI
