@@ -33,6 +33,7 @@ http://new-pro.tv:8080/waelwael/2r1sBY8wJK/17520?checkedby:iptvcat.com
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="ABC Kids" tvg-country="Australia" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Australia",ABC Kids (720p)
 https://c.mjh.nz/101002210222
+#EXTINF:-1 tvg-id="Nickelodeon uk" tvg-country"UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="UK",Nickelodeon UK (1080p)
 #EXTINF:-1 tvg-id="YTV" tvg-country="Canada" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/YTV_Large_LOGO_%282016%29.png/revision/latest?cb=20190428181851" group-title="Canada",YTV SD (540p)
 http://lotin4k.com:80/80/MahmudAslami/IQ3KTIBIQA/6315?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Nickelodeon CEE" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="International",Nickelodeon CEE (Turkish Audio) (1080p)
@@ -61,5 +62,6 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571881
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22477
 #EXTINF:-1 tvg-id="Nickelodeon CEE" tvg-country"CEE" tvg-language="Danish" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="International",Nickelodeon CEE (Danish Audio) (540p)
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22310
-#EXTINF:-1 tvg-id="Nickelodeon CEE" tvg-country"CEE" tvg-language="Swedish" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="International",Nickelodeon CEE (Swedish Audio) (540p)
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22694
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-country"Portugal" tvg-language="Portuguese" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/b/b8/Nick_2009.png/revision/latest?cb=20200101230052" group-title="Portugal",Nickelodeon Portugal (1080p)
+http://cdn99.one:80/984854/6b4zmQ/90241.ts
+
